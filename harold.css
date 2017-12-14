@@ -1,0 +1,20 @@
+body{
+  background: #2d2d2d;
+}
+
+pre{
+  font-family: 'Noto Sans';
+  font-size: 12px;
+  color: #4fb5f9;
+  line-height: 20px;
+}
+
+.t{
+  font-family: 'Noto Sans';
+  font-size: 18px;
+  color: #7c7c7c;
+}
+
+.a{
+  margin-left: 5px;
+}
